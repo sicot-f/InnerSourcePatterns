@@ -51,6 +51,41 @@ La licence simplifie les conversations au sein de notre organisation sur le part
 
 ## Instances connues
 
-DB Systel a créé sa propre licence InnerSource, voir DB Inner Source License. Ils ont utilisé l'EUPL, car cela offrait une source ouverte comme point de départ, puis ont élaboré les contraintes et les règles supplémentaires requises dans leur contexte organisationnel spécifique.
+DB Systel a créé sa propre licence InnerSource, voir [DB Inner Source License][db-inner-source-license]. Ils ont utilisé l'[EUPL][eupl], car cela offrait une source ouverte comme point de départ, puis ont élaboré les contraintes et les règles supplémentaires requises dans leur contexte organisationnel spécifique.
+
 Les premières entités juridiques (sociétés) au sein de la DB AG utilisent leur licence InnerSource.
-Un effet positif qui se manifeste déjà est qu'il simplifie la conversation, surtout si certaines des parties impliquées ne connaissent pas l'InnerSourc
+
+Un effet positif qui se manifeste déjà est que cela simplifie la conversation, surtout si certaines des parties impliquées ne connaissent pas encore très bien le concept InnerSource. Les licences sont un concept bien connu, donc avoir une licence InnerSource est un excellent sujet de discussion.
+
+Les expériences révèlent également qu'il existe d'autres défis de collaboration qui doivent être résolus afin de mener à un véritable modèle de contribution et de collaboration InnerSource.
+
+Les défis de collaboration mentionnés incluent :
+
+- rendre les projets sous licence InnerSource visibles
+- créer des communautés de collaboration sur des projets, comme dans l'Open Source
+
+Il convient de mentionner que jusqu'à présent, les logiciels partagés sous cette licence InnerSource sont principalement des outils, une infrastructure et des outils plus bas dans la pile.
+
+## Statut
+
+* Structuré
+* L'expérience répertoriée sous **Instances connues** est en cours depuis 02/2020. L'expérience initiale montre d'abord des effets positifs, mais plus d'expérience est nécessaire pour évaluer pleinement le modèle.
+
+## Auteur(s)
+
+- Cornelius Schumacher (DB Systel GmbH)
+- Schlomo Schapiro (DB Systel GmbH)
+- Sébastien Spier
+
+## Références
+
+- Présentation FOSSBack 2020 : [Cornelius Schumacher - Blending Open Source and Corporate Values](https://youtu.be/hikC6U8X_Ec) - regardez à partir de 27h30 pour plus de détails sur la licence InnerSource
+- [Licence de source interne DB] [db-inner-source-license]
+
+## Glossaire
+
+- **organisation** - Un parapluie pour plusieurs entités juridiques. (synonymes : groupe, entreprise) (ex. Lufthansa)
+- **entité légale** - Une entité qui a ses propres droits et obligations légales (synonymes : société, filiale) (par exemple, Lufthansa Systems GmbH, Lufthansa Industry Solutions TS GmbH, ...)
+
+[db-inner-source-license]: https://github.com/dbsystel/open-source-policies/blob/master/DB-Inner-Source-License.md
+[eupl]: https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12

@@ -60,9 +60,24 @@ Une [implémentation de référence](https://github.com/SAP/project-portal-for-i
 
 * Le portail InnerSource a permis aux propriétaires de projets InnerSource d'annoncer leurs projets à un public à l'échelle de l'organisation. En raison de cette visibilité accrue, ils attirent des communautés de contributeurs beaucoup plus importantes que jamais auparavant.
 * Pour ceux qui cherchent à s'impliquer dans des projets InnerSource, le portail InnerSource leur a permis de découvrir exactement le type d'opportunités qui les intéresse en effectuant une recherche simultanée dans tous les projets InnerSource disponibles en fonction de leurs critères spécifiques.
-* Satisfaire les besoins de ces deux publics a contribué à établir l'InnerSource comme une solution viable et attirante pour toutes les fonctions de l'orgnisation de tirer profit de faire des choses ensembles qu'ils n'auraient pas pu séparemment.
+* La satisfaction des besoins de ces deux publics a contribué à établir InnerSource comme une option viable et attrayante pour tous les secteurs de l'organisation à tirer parti pour accomplir des choses ensemble qu'ils ne pourraient pas avoir séparément.
 
+## instances connues
 
+* **Une grande organisation de services financiers** a utilisé la création d'un portail InnerSource pour fournir un mécanisme de publicité et de découverte des projets InnerSource existants dans différentes unités commerciales
+* **SAP** fait la promotion des projets InnerSource dans le portail InnerSource - les projets peuvent s'auto-enregistrer à l'aide des rubriques GitHub. Le [Repository Activity Score](repository-activity-score.md) définit l'ordre par défaut des projets InnerSource dans le portail. Voir également [Michael Graf & Harish B (SAP) at ISC.S11 - The Unexpected Path of Applying InnerSource Patterns](https://www.youtube.com/watch?v=6r9QOw9dcQo&list=PLCH-i0B0otNQZQt_QzGR9Il_kE4C6cQRy&index=6). Sa base de code est publiée en tant que [implémentation de référence](https://github.com/SAP/project-portal-for-innersource) et ouverte aux contributions.
+* **Elbit Systems** a utilisé ce modèle et ajouté la gamification en plus.
+  * [Gamification comme moyen de changement culturel et booster d'engagement InnerSource](https://www.oreilly.com/library/view/oscon-2018-/9781492026075/video321579.html) | Shelly Nizri | OSCON 2018 - Portland, Oregon
+  * Des îles, des monstres et de la source intérieure [(diapositives)](https://docs.google.com/presentation/d/1P1OCEK9B6eSrVRUclVWY6meSI-qHOBjM_UAPNvCZamU/edit#slide=id.p15), [(vidéo)](https:// drive.google.com/file/d/1pM89uHMn0vhE3ayFJDGYcCO8R0tAXXZD/view?usp=drivesdk) | InnerSource Spring Summit 2019 (Galway, Irlande)
+  * Le code réalisant cette plateforme a été open source et est disponible sur [gitlab.com/gilda2](https://gitlab.com/gilda2)
+* **American Airlines** fait la promotion des projets InnerSource via un [place de marché interne InnerSource](https://tech.aa.com/2020-10-30-innersource/). Comme pour SAP, les projets s'auto-enregistrent en ajoutant "innersource" en tant que sujet GitHub. Les projets sont consultables et filtrables par langue, sujets, nombre de problèmes ouverts, etc.
+* **Banco Santander** a créé un portail public appelé [Santander ONE Europe InnerSource Community](https://innersourceportal.santander.com/) pour soutenir et accroître l'adoption d'InnerSource. En plus du catalogue de projets, le portail comprend des contenus pertinents tels que la documentation, la méthode de travail, les actualités et les événements.
+
+![Santander InnerSource Portal](../../assets/img/santander_portal.png "Banco Santander InnerSource Portal")
+
+## Références
+
+* Il a été prouvé que le modèle de portail InnerSource fonctionne extrêmement bien avec le modèle InnerSource [Gig Marketplace] (./gig-marketplace.md) associé dans ce contexte
 
 ## Statut
 
@@ -76,6 +91,5 @@ Une [implémentation de référence](https://github.com/SAP/project-portal-for-i
 
 * Shelly Nizri
 * Melinda Malmgren
-* Michael Graf
+* Michel Graf
 * Jesús Alonso Gutierrez
-
